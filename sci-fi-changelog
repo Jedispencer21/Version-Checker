@@ -6,3 +6,5 @@
 - Added XP Storage.
 - Added XP Hopper.
 - Added Armor HUD, displays currently worn armor.
+- Added a Minimap to show the area around the player, and all entites within a radius. (Also has a bunch of customizable options)
+- Changed the data directory to its own file, everything is now in the file labeled "sci_fi_tech"
