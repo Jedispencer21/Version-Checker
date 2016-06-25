@@ -1,9 +1,14 @@
-0.0.1.2
-~~~~
+1.10-0.1.1.3
+~~~~~~~~
+- Updated the mod to 1.10
+- Rewrote the RenderGlobal class.
+
+1.9.4-0.0.1.2
+~~~~~~~~
 - Added a keybinding to change the zoom button.
 
-0.0.1.1
-~~~~
+1.9.4-0.0.1.1
+~~~~~~~~
 - Added option to enable world loading screen.
 - Added option to enable server loading screen.
 - Changed the look of the player list to support searching and pages.
