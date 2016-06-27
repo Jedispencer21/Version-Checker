@@ -2,6 +2,7 @@
 ~~~~~~~~
 - Updated the mod to 1.10
 - Rewrote the RenderGlobal class.
+- Added a menu that shows most GL Capabilities and pc info.
 - Added Waypoints
 
 1.9.4-0.0.1.2
