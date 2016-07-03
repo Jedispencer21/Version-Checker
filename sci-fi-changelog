@@ -2,6 +2,7 @@
 ~~~~~~~~
 - Updated the mod to 1.10.2
 - Minimap now displays when a player has an enchantment on their armor.
+- When someone on your team is sneaking or invisible the minimap darkens their icon.
 - When spectating a player you can now see their health.
 - Added back the custom server menu.
 
