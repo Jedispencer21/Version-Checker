@@ -5,6 +5,7 @@
 - When someone on your team is sneaking or invisible the minimap darkens their icon.
 - When spectating a player you can now see their health.
 - Added back the custom server menu.
+- Changed the way textures are loaded for better support for resource packs.
 
 1.10-0.1.1.3
 ~~~~~~~~
