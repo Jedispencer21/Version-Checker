@@ -7,6 +7,7 @@
 - Added back the custom server menu.
 - Changed the way textures are loaded for better support for resource packs.
 - Minimap position is based upon player position or spectated entity position.
+- Minimap entity brightness is based upon the brightness of their block position.
 
 1.10-0.1.1.3
 ~~~~~~~~
