@@ -9,6 +9,7 @@
 - Minimap position is based upon player position or spectated entity position.
 - Minimap entity brightness is based upon the brightness of their block position.
 - Fixed arrow not being in the center of the map.
+- Added options to change the scale of entity dots.
 
 1.10-0.1.1.3
 ~~~~~~~~
