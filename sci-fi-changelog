@@ -13,6 +13,7 @@
 - Added an option to show plants.
 - Added an option to show flowers.
 - Added an option to show redstone.
+- Waypoints now take into account the lighting.
 - Fixed arrow not being in the center of the map.
 - Fixed waypoints on the minimap not taking the opacity of the map.
 
