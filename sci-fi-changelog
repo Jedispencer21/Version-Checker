@@ -10,6 +10,9 @@
 - Minimap entity brightness is based upon the brightness of their block position.
 - Added options to change the scale of entity dots.
 - Added an option to show torches.
+- Added an option to show plants.
+- Added an option to show flowers.
+- Added an option to show redstone.
 - Fixed arrow not being in the center of the map.
 - Fixed waypoints on the minimap not taking the opacity of the map.
 
