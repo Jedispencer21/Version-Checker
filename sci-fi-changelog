@@ -8,7 +8,7 @@
 - Changed the way textures are loaded for better support for resource packs.
 - Minimap position is based upon player position or spectated entity position.
 - Minimap entity brightness is based upon the brightness of their block position.
-- Added options to change the scale of entity dots.
+- Added options to change the scale of entity dots. Babies appear smaller, boss type mobs are larger.
 - Added an option to show torches.
 - Added an option to show plants.
 - Added an option to show flowers.
