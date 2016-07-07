@@ -8,8 +8,10 @@
 - Changed the way textures are loaded for better support for resource packs.
 - Minimap position is based upon player position or spectated entity position.
 - Minimap entity brightness is based upon the brightness of their block position.
-- Fixed arrow not being in the center of the map.
 - Added options to change the scale of entity dots.
+- Added an option to show torches.
+- Fixed arrow not being in the center of the map.
+- Fixed waypoints on the minimap not taking the opacity of the map.
 
 1.10-0.1.1.3
 ~~~~~~~~
