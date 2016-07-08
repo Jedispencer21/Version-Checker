@@ -4,6 +4,7 @@
 - Minimap now displays when a player has an enchantment on their armor.
 - When someone on your team is sneaking or invisible the minimap darkens their icon.
 - When spectating a player you can now see their name/health.
+- Added a timer so that you can have an ingame one.
 - Added back the custom server menu.
 - Changed the way textures are loaded for better support for resource packs.
 - Minimap position is based upon player position or spectated entity position.
