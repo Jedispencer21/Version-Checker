@@ -1,6 +1,5 @@
 1.10.2-0.2.0.5
 ~~~~~~~~
-- Update to Forge 1.10.2-12.18.1.2044
 
 1.10.2-0.2.0.4
 ~~~~~~~~
@@ -21,6 +20,7 @@
 - Waypoints now take into account the lighting.
 - Fixed arrow not being in the center of the map.
 - Fixed waypoints on the minimap not taking the opacity of the map.
+- Update to Forge 1.10.2-12.18.1.2044
 
 1.10-0.1.1.3
 ~~~~~~~~
